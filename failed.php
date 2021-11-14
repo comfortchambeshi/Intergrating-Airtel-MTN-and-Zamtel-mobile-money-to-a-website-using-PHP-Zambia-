@@ -1,0 +1,1 @@
+<center><p>Your transaction was failed or cancelled. This is due to insufficient credit or manula payment cancellation by yourself!</p></center>
